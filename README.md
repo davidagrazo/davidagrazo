@@ -25,3 +25,5 @@
 
 ---
 ### :technologist:About me
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidagrazo&theme=soft-green&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&card_width=487)](https://git.io/streak-stats)
