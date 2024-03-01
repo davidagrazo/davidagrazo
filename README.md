@@ -22,3 +22,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd5Mmo0ODI2Y3Rid3BvaWczdHpyanQ4bDJ4cjNqYmwzYmt4bDVubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+### :technologist:About me
