@@ -24,7 +24,7 @@
 
 ---------
 
-<div style="width: 50%; text-align: left;">
+<div style="width: 50%; text-align: center;">
   
 ### :desktop_computer:My Stats
   
