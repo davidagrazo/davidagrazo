@@ -25,18 +25,28 @@
 
 I have made my first steps in python, pandas, Machine Learning and Deep Learning.
 
+---
+
+### :hammer_and_wrench: Languages and Tools:
+
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
+
+</div>
+
 
 ---------
 
-<div style="width: 50%; align: center;">
-  
+
 ### :desktop_computer: My Stats
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidagrazo&theme=soft-green&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&card_width=487)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidagrazo&theme=soft-green&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&card_width=487)](https://git.io/streak-stats)
   
-  ### :mechanical_leg: My Language
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidagrazo)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+### :mechanical_leg: My Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidagrazo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
