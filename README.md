@@ -1,5 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZms3aTV6cHF3bHE5dnp0ZXhndzJkaW10YmFwdTJ3bmJ4MWVoaGlmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYc2axjCJNsCXyE/giphy.gif" width="100"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidagrazo&theme=soft-green&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&card_width=487)](https://git.io/streak-stats)
   </div>
 
 <div id="badges">
@@ -26,4 +25,4 @@
 ---
 ### :technologist:About me
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidagrazo&theme=soft-green&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&card_width=487)](https://git.io/streak-stats)
+
