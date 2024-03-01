@@ -22,8 +22,8 @@
 
 ### :technologist:About me
  - :student: I have a degree in Economics and a master's degree in Account Auditing. I have made a Data Science's Bootcamp.
-
 I have made my first steps in python, pandas, Machine Learning and Deep Learning.
+Always learning!!
 
 ---
 
