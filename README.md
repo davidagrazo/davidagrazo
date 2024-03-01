@@ -18,8 +18,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd5Mmo0ODI2Y3Rid3BvaWczdHpyanQ4bDJ4cjNqYmwzYmt4bDVubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif" width="600" height="300"/>
 </div>
 
----
-### My Stats
+---------
+
+### My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidagrazo&theme=soft-green&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&card_width=487)](https://git.io/streak-stats)
 
@@ -27,6 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidagrazo)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### :technologist:About me
+
+### :technologist:About me
 
 
