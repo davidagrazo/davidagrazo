@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt=""/>
   </div>
 
-<div id="badges">
+<div id="badges", align="center">
   <img src="https://komarev.com/ghpvc/?username=davidagrazo&style=flat-square&color=blue" alt=""/>
   <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt=""/>
