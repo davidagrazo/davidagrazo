@@ -1,13 +1,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidagrazo&theme=soft-green&hide_border=true&border_radius=5.1&date_format=j%20M%5B%20Y%5D&card_width=487)](https://git.io/streak-stats)
-id="badges">
+<div id="badges", align="right">
   <a href="https://www.linkedin.com/in/davidagrazods/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   
   <a href="https://www.kaggle.com/davidagrazo">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt=""/>
   </div>
-
-<div 
 
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=davidagrazo&style=flat-square&color=blue" alt=""/>
