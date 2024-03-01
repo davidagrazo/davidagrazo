@@ -17,10 +17,24 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd5Mmo0ODI2Y3Rid3BvaWczdHpyanQ4bDJ4cjNqYmwzYmt4bDVubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif" width="600" height="300"/>
 </div>
+
 --------
 
 ### :technologist:About me
+I have a degree in Economics and a master's degree in Account Auditing. Currently working in Accounting and learning programming through the #HACKABOSS Bootcamp to become a Data Scientist.
 
+In each of my jobs, I have always been able to adapt to new work methods and I have acquired valuable skills with which I will be able to develop in the new stages that I hope to find myself in.
+
+As I mentioned, I am currently in a new stage of academic learning (yes, you can return to studying). After my experience with databases and my interest in new technologies, I have launched myself into the world of Data Science.
+
+What do I like the most?​ :
+Collaborate with my colleagues, learn with and from them new skills and help each other achieve our common goals.
+In the different jobs I have had, I have learned that it is very important to have a good work environment and be able to put yourself in the place where your colleague is.
+
+What can I do for you ?
+I can provide initiative, proactivity and motivation. I usually work with deadlines, so I am quite organized with the time I have to do my work. I consider myself a decisive, dynamic person and I try to learn new skills every day, not taking anything for granted.
+
+Apart from what I mentioned, I can contribute my knowledge in #Python, #MachineLearning, #SQL​ and #Data Science.
 
 ---------
 
