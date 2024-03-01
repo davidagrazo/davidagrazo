@@ -5,14 +5,15 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/davidagrazods/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt=""/>
+  
   <a href="https://www.kaggle.com/davidagrazo">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt=""/>
 </div>
 
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=davidagrazo&style=flat-square&color=blue" alt=""/>
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt=""/>
 </div>
 
 <div align="center">
